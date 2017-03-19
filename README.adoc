@@ -5,7 +5,7 @@ This is my https://neovim.io[Neovim] configuration. After switching from `vim` I
 Installing my `neovim` setup on Fedora is pretty straight forward:
 
 ....
-sudo dnf install neovi
+sudo dnf install neovim
 mkdir -p $HOME/.config/nvim
 git clone https://github.com/reavon/neovim $HOME/.config/nvim
 nvim $HOME/.config/nvim/init.vim
