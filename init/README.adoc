@@ -1,0 +1,16 @@
+= Init Files
+
+This directory contains information by subject. Breaking down `neovim` configuration into management files keeps me from having an unweildy configuration file.
+
+The files are sorted into groups as follows:
+
+* `00` - TODO's and random ideas.
+* `01` - general `neovim` configuration.
+* `02` - installs and configures plugin manager. Currently `vim-plug`.
+* `03` - lists plugins to be installed.
+* `04` - general configuration that is not `neovim` specific.
+* `05` - mappings (for non-plugins).
+* `06` - plugin configuration
+* `07` - gui configuration (this can be a bit arbitrary)
+* `10` - spelling
+
