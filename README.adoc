@@ -1,6 +1,6 @@
 = Neovim
 
-This is my https://neovim.io[Neovim] configuration. After switching from `vim` I decided to make my configuration a bit more modular. `init.vim` sets up the modular nature  and of particular note is the link:blog/master/init/README.adoc[README] for the `init` directory.
+This is my https://neovim.io[Neovim] configuration. After switching from `vim` I decided to make my configuration a bit more modular. `init.vim` sets up the modular nature  and of particular note is the link:init/README.adoc[README] for the `init` directory.
 
 Installing my `neovim` setup on Fedora is pretty straight forward:
 
@@ -15,7 +15,7 @@ I have `neovim` configured in such a way that it will create all of the required
 
 If you want to make any changes to packages that are installed. You will want to use a different editor and edit `$HOME/.config/nvim/init/03-plugins.vim`.
 
-If you have any ideas, questions or concerns, please open a link:issues[an issue].
+If you have any ideas, questions or concerns, please open a https://github.com/reavon/neovim/issues[an issue].
 
 Thanks for looking around and I hope to hear from you soon!
 
