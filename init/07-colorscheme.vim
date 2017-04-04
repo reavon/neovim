@@ -1,2 +1,3 @@
 set background=dark " or light
-colorscheme flattened_dark
+colorscheme onedark
+"colorscheme flattened_dark
