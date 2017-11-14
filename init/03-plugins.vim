@@ -11,6 +11,7 @@ Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 
 " gui
+Plug 'whatyouhide/vim-gotham'
 Plug 'joshdick/onedark.vim'
 Plug 'romainl/flattened' 		" Solarized, without the bullshit.
 Plug 'vim-airline/vim-airline'
